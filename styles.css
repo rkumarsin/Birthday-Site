@@ -67,19 +67,19 @@ h1, h2, h3, h4, p {
 }
 
 #gift-img-hot:hover {
-    background-image: url("images/200.webp");
+    background-image: url("200.webp");
 }
 
 #gift-img-genius:hover {
-    background-image: url("images/genius.gif");
+    background-image: url("genius.gif");
 }
 
 #gift-img-badass:hover {
-    background-image: url("images/200w.webp");
+    background-image: url("200w.webp");
 }
 
 #gift-img-cheers:hover {
-    background-image: url("images/cheers.gif");
+    background-image: url("cheers.gif");
 }
 
 #footer {
